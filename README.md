@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Docker React
+
+Setup CI/CD pipeline for a React App using Docker, Travis CI and AWS
+
 ## Available Scripts
 
 In the project directory, you can run:
